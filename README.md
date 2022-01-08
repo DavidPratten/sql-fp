@@ -6,6 +6,10 @@ This repo is dedicated to pursuing the following goals:
 - to identify linguistic factors in SQL that hinder programmers from benefitting from this power
 - to propose useful and pragmatic changes to SQL to address these issues
 
+See the discussion section for dialogs on two specific topics
+- [Functional Programming with SQL Query lambdas, functions and pipelines](https://github.com/DavidPratten/sql-fp/discussions/6)
+- [Composable Recursive Relational Queries](https://github.com/DavidPratten/sql-fp/discussions/8)
+
 This work is based on a few assumptions about SQL:
 - SQL is a (relational) pure functional query language with strictly controlled effects.
 - SQL recursive and fixed-point queries are, in general, under appreciated
