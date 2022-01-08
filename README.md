@@ -1,2 +1,2 @@
-# Exploring "SQL Functional Programming" and "SQL Fixed Point"!
+# Exploring SQL Functional Programming
 
