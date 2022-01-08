@@ -1,4 +1,4 @@
-# Exploring SQL Functional Programming
+# SQL Functional Programming
 
 This repo is dedicated to pursuing the following goals:
 - to embrace the power of the SQL query language
