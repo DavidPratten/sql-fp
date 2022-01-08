@@ -1,2 +1,2 @@
-# SQL Fixed Point Functional Programming
+# SQL Functional (Fixed Point) Programming
 
