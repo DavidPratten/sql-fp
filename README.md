@@ -1,2 +1,2 @@
-# SQL Functional Programming and/or Fixed Point
+# "SQL Functional Programming" and/or "SQL Fixed Point"
 
